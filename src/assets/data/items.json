@@ -1,0 +1,86 @@
+[
+    {
+        "Soups":[
+            {
+                "item":"Vegetable Silver Soup",
+                "img":"../assets/images/name.jpg",
+                "price":"400",
+                "rating":"3"
+            },
+            {
+                "item":"Vegetable Silver Soup",
+                "img":"../assets/images/name.jpg",
+                "price":"400",
+                "rating":"3"
+            },
+            {
+                "item":"Vegetable Silver Soup",
+                "img":"../assets/images/name.jpg",
+                "price":"400",
+                "rating":"3"
+            },
+            {
+                "item":"Vegetable Silver Soup",
+                "img":"../assets/images/name.jpg",
+                "price":"400",
+                "rating":"3"
+            }
+        ]
+    },
+    {
+        "Salads":[
+            {
+                "item":"Vegetable Silver Soup",
+                "img":"../assets/images/name.jpg",
+                "price":"400",
+                "rating":"3"
+            },
+            {
+                "item":"Vegetable Silver Soup",
+                "img":"../assets/images/name.jpg",
+                "price":"400",
+                "rating":"3"
+            },
+            {
+                "item":"Vegetable Silver Soup",
+                "img":"../assets/images/name.jpg",
+                "price":"400",
+                "rating":"3"
+            },
+            {
+                "item":"Vegetable Silver Soup",
+                "img":"../assets/images/name.jpg",
+                "price":"400",
+                "rating":"3"
+            }
+        ]
+    },
+    {
+        "Pizzas":[
+            {
+                "item":"Vegetable Silver Soup",
+                "img":"../assets/images/name.jpg",
+                "price":"400",
+                "rating":"3"
+            },
+            {
+                "item":"Vegetable Silver Soup",
+                "img":"../assets/images/name.jpg",
+                "price":"400",
+                "rating":"3"
+            },
+            {
+                "item":"Vegetable Silver Soup",
+                "img":"../assets/images/name.jpg",
+                "price":"400",
+                "rating":"3"
+            },
+            {
+                "item":"Vegetable Silver Soup",
+                "img":"../assets/images/name.jpg",
+                "price":"400",
+                "rating":"3"
+            }
+        ]
+    }
+]

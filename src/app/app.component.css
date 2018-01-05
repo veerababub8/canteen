@@ -1,0 +1,115 @@
+.headerImg{
+    background: url('../assets/images/header.png');
+    background-size: 100% 150px;
+    width: 100%;
+    height: 150px;  
+}
+.row{
+    margin: 0px;
+}
+.headerClr{
+    width: 100%;
+    height: 150px;
+    position: absolute;
+    background: #00000069;
+}
+.canteenText{
+    font-size: 30px;
+    color: #fff;
+    font-weight: bold;
+    padding-left: 20px;
+}
+.canteenMenu{
+    font-size: 18px;
+    color: #f5861f;
+    font-weight: bold;
+    padding-left: 5px;
+    margin-bottom: 0px;
+}
+.container-fluid{
+    background: #f6f6f6;
+}
+.container-fluid .container{
+    max-width: 1250px;
+}
+.whiteBack{
+    background: #fff;
+    padding-top: 10px;
+}
+.menu ul li{
+    list-style-type: none;
+    cursor: pointer;
+    padding-left: 5px;
+}
+.menu ul li:hover{
+    background: #f5861f;
+    color: #fff;
+    padding-left: 5px;
+}
+.menu ul{
+    padding: 0px;
+    margin: 0px;
+}
+.grayTop{
+    padding-top: 30px;
+}
+
+
+
+
+.foodItem{
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    position: relative;
+}
+.foodItem .pricing{
+    position: absolute;
+    background: #f5861f;
+    color: #fff;
+    padding: 5px;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    border-radius: 50%;
+    top: calc(50% - 4px);
+    left: calc(50% - 25px);
+    align-items: center;
+}
+.foodItem > img{
+    width: 285px;
+    height: 152px;
+}
+.itemCost{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    border-top: 1px solid #ddd;
+}
+.foodItem p{
+    margin: 10px 15px;;
+}
+.itemCost .order{
+    border: 1px solid #f5861f;
+    color: #f5861f;
+    padding: 3px 15px;
+    cursor: pointer;
+}
+.itemCost .order:hover{
+    color: #fff;
+    background: #f5861f;
+}
+.yourOrder{
+    min-height: 300px;
+    background: #fff;
+}
+.yourOrder p{
+    font-size: 22px;
+    color: #f5861f;
+    font-weight: bold;
+    padding: 10px 15px;
+    border-bottom: 1px solid #ddd;
+}
+.foodItem:hover{
+    box-shadow: 1px 1px 1px #ccc;
+}
